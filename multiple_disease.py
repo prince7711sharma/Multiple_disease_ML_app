@@ -231,7 +231,7 @@ if selected == "Parkinsons Prediction":
                       RAP, PPQ, DDP,Shimmer, Shimmer_dB, APQ3, APQ5,
                       APQ, DDA, NHR, HNR, RPDE, DFA, spread1, spread2, D2, PPE]
 
-        user_input = [float(x) for x in user_input]
+        #user_input = [float(x) for x in user_input]
 
         parkinsons_prediction = parkinsons_model.predict([user_input])
 
