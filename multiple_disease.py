@@ -11,6 +11,7 @@ from streamlit_option_menu import option_menu
 
 
 # loading the save data
+st.sidebar.image('https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto/v1561096160/1561096159.jpg',use_column_width=True)
 
 diabetes_model = pickle.load(open('diabetes_model.sav','rb'))
 heart_disease_model = pickle.load(open('heart_disease_model.sav','rb'))
