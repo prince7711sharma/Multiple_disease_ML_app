@@ -1,4 +1,4 @@
-# Multuple_disease_ML_app
+# Multiple_disease_ML_app
 This repository contains a machine learning-based project for predicting multiple diseases based on various health parameters. The goal is to provide a diagnostic tool that can identify potential diseases from a single input dataset, helping healthcare professionals make informed decisions.
 #FEATURES
 .1 Multi-Disease Prediction:-> Supports prediction for various diseases, such as diabetes, heart disease, and Parkinson disease, using a single integrated model.
